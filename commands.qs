@@ -72,12 +72,7 @@ LAST	Len	"Douglas Eyre"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918503	P768	Q1080634	P102	Q9624	P1111	13655	P1352	2	S4656	"https://en.wikipedia.org/wiki/Bournemouth_East_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Emma Johnson"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1080634	P102	Q327591	P1111	314	P1352	6	S4656	"https://en.wikipedia.org/wiki/Bournemouth_East_(UK_Parliament_constituency)"
+Q76509793	P3602	Q30173038	P768	Q1080634	P102	Q327591	P1111	314	P1352	6	S4656	"https://en.wikipedia.org/wiki/Bournemouth_East_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"George Chamberlaine"
